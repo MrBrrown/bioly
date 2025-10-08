@@ -1,3 +1,6 @@
 [submodule "bioly_docs"]
 	path = bioly_docs
 	url = https://github.com/MrBrrown/bioly_docs
+[submodule "bioly_back"]
+	path = bioly_back
+	url = https://github.com/MrBrrown/bioly_back
