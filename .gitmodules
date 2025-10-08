@@ -4,3 +4,6 @@
 [submodule "bioly_back"]
 	path = bioly_back
 	url = https://github.com/MrBrrown/bioly_back
+[submodule "bioly_frontend"]
+	path = bioly_frontend
+	url = https://github.com/mikhailmogilnikov/bioly-frontend.git
